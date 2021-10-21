@@ -6,7 +6,7 @@ import { Decorator } from "../common/commonComponent";
 import ArrowDownwardRoundedIcon from "@material-ui/icons/ArrowDownwardRounded";
 import DrawerComponent from "./DrawerComponent";
 import Typed from "react-typed";
-import AboutUs from '../BodyComponents/AbouotUs';
+
 
 export default function HeadersComponents() {
   const classes = useStyles();
@@ -63,7 +63,7 @@ export default function HeadersComponents() {
           label: "About Us",
           withIcon: true,
           Icon: <ArrowDownwardRoundedIcon />,
-          // <AboutUs/>,
+        
           
         })}
       </Box>

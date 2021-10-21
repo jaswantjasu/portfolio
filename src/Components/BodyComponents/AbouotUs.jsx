@@ -154,16 +154,8 @@ export default function AboutUs() {
             </a>
             </div>
           </Grid>
-          
-
-          
-        </Container>
-        
+        </Container>  
       </ScrollAnimation>
     </Box>
-
-
-
-
   );
 }
