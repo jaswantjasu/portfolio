@@ -48,12 +48,10 @@ export default function HeadersComponents() {
         <Typography varinat='h3' component='h4' className={classes.headerDesc} >
           “When something is important enough,
           <br />you do it even if the odds are not in your favor. ”  <strong>
-          <Typed
-            strings={[" - Elon Musk"]}
-            typeSpeed={100}
-            backSpeed={70}
-            loop
-          />
+            <br/>
+            - Elon Musk
+            
+         
           </strong>
          
          
