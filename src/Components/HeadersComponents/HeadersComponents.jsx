@@ -39,7 +39,7 @@ export default function HeadersComponents() {
 
           I'm a <span style={{ padding: "5px" }}></span>
           <Typed
-            strings={[" Web Developer,", " Android Developer,", " iOS Developer,", " Blockchain Developer,"]}
+            strings={[" Web Developer,", " Android Developer,", " Blockchain Developer,"]}
             typeSpeed={70}
             backSpeed={30}
             loop
