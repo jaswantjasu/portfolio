@@ -41,17 +41,6 @@ export default function AboutUs() {
       icon: <CgWebsite />
     },
     {
-      title: "iOS Development",
-      description: <Typed
-        strings={[" SWIFT &nbsp;",]}
-        typeSpeed={100}
-        backSpeed={80}
-        loop
-      />,
-      icon: <AiFillApple />,
-
-    },
-    {
       title: "Android Development",
       description: <Typed
         strings={[" JAVA &nbsp; ", "KOTLIN &nbsp;", "PHP &nbsp;",]}
@@ -96,7 +85,7 @@ export default function AboutUs() {
                 smallText: "ABOUT ME",
                 heading: "Hello I'm Jaswant singh",
                 description:
-                  "A self taught developer who loves to codes something that wiil impact majority of the people in good waay !",
+                  "A self taught developer who loves to codes something that will impact majority of the people in good way !!",
                   
               })}
               
